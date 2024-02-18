@@ -116,7 +116,7 @@ const MyProjects = () => {
           More Projects!?
         </h4>
         <a
-          href="https://github.com/92isaac?tab=repositories"
+          href="https://github.com/Sylar-codex"
           target="_blank"
           className="py-[8px] px-6 rounded-md text-smoky-black hover:text-vegas-gold bg-vegas-gold hover:bg-smoky-black hover:border-jet border border-solid text-[14px] md:text-[16px] font-bold transition-all delay-200 flex items-center justify-center"
         >
