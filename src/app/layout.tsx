@@ -12,8 +12,7 @@ const raleway = Raleway({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Victor Iduh",
-  description: "Software Developer - Frontend",
-  icons: "/img/Sangodare Isaac.jpeg",
+  description: "Software Developer",
 };
 
 export default function RootLayout({

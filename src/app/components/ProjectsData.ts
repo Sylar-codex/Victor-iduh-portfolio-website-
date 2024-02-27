@@ -40,7 +40,7 @@ const ProjectData: ProjectDataTypes[] = [
       "React | DJango | Django-RF | Django-rest-knox | Django-channels | Websockets | redis | Daphane | Tailwind CSS | useReducer | Context API | Custom hooks ",
     frontendGithubURL: "https://github.com/Sylar-codex/padi-FE-c",
     backendGithubURL: "https://github.com/Sylar-codex/padi-backend",
-    projectLiveURL: "https://github.com/Sylar-codex/padi-FE-",
+    projectLiveURL: "https://padi-fe.vercel.app/",
   },
   {
     id: 2,
