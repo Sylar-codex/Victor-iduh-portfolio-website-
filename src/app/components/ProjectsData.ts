@@ -21,7 +21,7 @@ const ProjectData: ProjectDataTypes[] = [
     projectImgURL: jumJacket,
     projectTitle: "Jum Jacket Store",
     ProjectAbout:
-      "This is an ecommerce store that let users shop thier favourite jacket online with ease from their computer, it also offers a seamless payment option for the user to pay for goods they want to purchase and for the traders. It leaves them happy and stress free, because the app has taken care of all the stress, they just sit back at home and watch their account ring out from all the sales",
+      "This is an ecommerce store that let users shop thier favourite jacket online with ease from their computer, it also offers a seamless payment option for the user to pay for goods they want to purchase and for the traders. It leaves them happy and stress free, because the app has taken care of all the stress, they just sit back at home and watch their account ring out from all the sales. (Might be slow because it is being hosted on a free server)",
     stack:
       "React | useReducer | Context API | Image Lazy loader | Custom hooks | Django RF | Django-rest-knox | Cloudinary | huey and redis | google smtp | PostgreSQL | Paystack",
     frontendGithubURL:
@@ -35,7 +35,7 @@ const ProjectData: ProjectDataTypes[] = [
     projectImgURL: padi,
     projectTitle: "Padi",
     ProjectAbout:
-      "This is a messaging app which only allows communication with a close circle, only users who have your email can be able to communicate and text you. Communication on this app is seamless and secured. It comprises of the use of React as the the frontend technology and Django as the backend.",
+      "This is a messaging app which only allows communication with a close circle, only users who have your email can be able to communicate and text you. Communication on this app is seamless and secured. It comprises of the use of React as the the frontend technology and Django as the backend. (Might be slow because it is being hosted on a free server)",
     stack:
       "React | DJango | Django-RF | Django-rest-knox | Django-channels | Websockets | redis | Daphane | Tailwind CSS | useReducer | Context API | Custom hooks ",
     frontendGithubURL: "https://github.com/Sylar-codex/padi-FE-c",
