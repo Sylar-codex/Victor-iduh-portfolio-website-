@@ -37,7 +37,7 @@ const ProjectData: ProjectDataTypes[] = [
     ProjectAbout:
       "This is a messaging app which only allows communication with a close circle, only users who have your email can be able to communicate and text you. Communication on this app is seamless and secured. It comprises of the use of React as the the frontend technology and Django as the backend. (Might be slow because it is being hosted on a free server)",
     stack:
-      "React | DJango | Django-RF | Django-rest-knox | Django-channels | Websockets | redis | Daphane | Tailwind CSS | useReducer | Context API | Custom hooks ",
+      "React | DJango | Django-RF | Django-rest-knox | Django-channels | Websockets | redis | Daphane | Postgresql | Tailwind CSS | useReducer | Context API | Custom hooks ",
     frontendGithubURL: "https://github.com/Sylar-codex/padi-FE-c",
     backendGithubURL: "https://github.com/Sylar-codex/padi-backend",
     projectLiveURL: "https://padi-fe.vercel.app/",
@@ -48,7 +48,7 @@ const ProjectData: ProjectDataTypes[] = [
     projectTitle: "School Website Template",
     ProjectAbout:
       "This is a school website template to aid anyone who would like to build a website for a school, most especially a secondary/high school, all That is needed to do is just edit texts to preferred and most suitable to user",
-    stack: "HTML | SAAS | Swiper.js | Javascript",
+    stack: "HTML | SASS | Swiper.js | Javascript",
     frontendGithubURL: "https://github.com/Sylar-codex/school-website-template",
     backendGithubURL: "",
     projectLiveURL: "https://schoolwebsitetemp01.netlify.app/",
@@ -60,7 +60,8 @@ const ProjectData: ProjectDataTypes[] = [
     projectTitle: "Sylar Pet-Store",
     ProjectAbout:
       "This is project is a static online store to purchase and buy pets. Different Pets are gotten based on categories from Dogs to Cats to Hamsters.",
-    stack: "React | Context API | Image Lazy loader",
+    stack:
+      "React | Context API | Image Lazy loader | React-toastify | Sweet Alert",
     frontendGithubURL: "https://github.com/Sylar-codex/pet-store",
     backendGithubURL: "",
     projectLiveURL: "https://sylar-pet-store.vercel.app/",
