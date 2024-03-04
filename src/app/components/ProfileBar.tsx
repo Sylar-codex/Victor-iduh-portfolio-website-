@@ -31,7 +31,7 @@ const ProfileBar = () => {
       <div className="flex flex-row lg:flex-col items-center justify-start lg:justify-center gap-2">
         <div className="w-[25%] lg:w-full flex items-center justify-center">
           <Image
-            src="/img/victor-iduh.jpeg"
+            src="/img/victor-iduh01.jpeg"
             width={200}
             height={200}
             alt="Victor Iduh"
