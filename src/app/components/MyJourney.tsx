@@ -30,7 +30,7 @@ const MyJourney = () => {
               className="text-[16px] md:text-[18px]  font-bold"
               data-aos="fade-down"
             >
-              Systrix
+              App-Org
             </h3>
             <h4
               className="text-[15px] md:text-[16px]  font-italic"
@@ -52,10 +52,6 @@ const MyJourney = () => {
               - Developed and maintained reusable UI components, reducing
               redundancy in code and accelerating the development of new
               features.
-            </h4>
-            <h4 className="text-[14px] md:text-[16px] " data-aos="fade-down">
-              - Used git as a version control and also in contributing to the
-              code base
             </h4>
             <h4 className="text-[14px] md:text-[16px] " data-aos="fade-down">
               - Used git as a version control and also in contributing to the
